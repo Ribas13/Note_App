@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CTW Note App</string>
+    <string name="top_app_bar">CTW Notes App</string>
+    <string name="first_input_field_label">Title</string>
+    <string name="second_input_field_label">Content</string>
+    <string name="add_button">Add</string>
+    <string name="delete_all">Delete All</string>
+    <string name="remove_all_button">Remove all</string>
+    <string name="trash">Trash</string>
+    <string name="no_notes_msg">No Notes :(</string>
+    <string name="favorites">Favorites</string>
+    <string name="home">Home</string>
+    <string name="add_note">Add a note!</string>
+    <string name="restore_note">restore note</string>
+    <string name="search_bar_placeholder">Search notes here</string>
+    <string name="edit_note_screen">edit note screen</string>
+</resources>
